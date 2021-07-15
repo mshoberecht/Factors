@@ -1,0 +1,63 @@
+Location Name,Item Count,Material Type,Over 100 items
+Archives - Tulsa,31,Book,FALSE
+Archives - Tulsa,194,Issue,TRUE
+Archives - Tulsa,97,None,FALSE
+Bound Journals - 2nd Floor,48,Book,FALSE
+Bound Journals - 2nd Floor,"7,034",Bound Issue,TRUE
+Bound Journals - 2nd Floor,"57,665",Issue,TRUE
+Bound Journals - 2nd Floor,147,None,TRUE
+Bound Journals - 2nd Floor,"1,764",Unknown,TRUE
+Clinic Library - Tulsa,221,Book,TRUE
+Compact Shelving - 2nd Floor,1,Audio cassette,FALSE
+Compact Shelving - 2nd Floor,"9,085",Book,TRUE
+Compact Shelving - 2nd Floor,57,Bound Issue,FALSE
+Compact Shelving - 2nd Floor,33,CD-ROM,FALSE
+Compact Shelving - 2nd Floor,4,Compact Disc,FALSE
+Compact Shelving - 2nd Floor,224,DVD,TRUE
+Compact Shelving - 2nd Floor,1,Equipment,FALSE
+Compact Shelving - 2nd Floor,1,Flash Card,FALSE
+Compact Shelving - 2nd Floor,779,Issue,TRUE
+Compact Shelving - 2nd Floor,3,Kit,FALSE
+Compact Shelving - 2nd Floor,6,Looseleaf,FALSE
+Compact Shelving - 2nd Floor,7,Manuscript,FALSE
+Compact Shelving - 2nd Floor,66,Map,FALSE
+Compact Shelving - 2nd Floor,1,Master Thesis,FALSE
+Compact Shelving - 2nd Floor,72,Music Score,FALSE
+Compact Shelving - 2nd Floor,1,OTHER,FALSE
+Compact Shelving - 2nd Floor,29,Sound Recording,FALSE
+Compact Shelving - 2nd Floor,51,Unknown,FALSE
+Compact Shelving - 2nd Floor,101,Video cassette,TRUE
+Dictionary Stand - Tulsa,20,Book,FALSE
+Graphic Scholarship - Tulsa,156,Book,TRUE
+Leisure Reading,1,Audiobook,FALSE
+Leisure Reading,424,Book,TRUE
+Leisure Reading,22,DVD,FALSE
+Leisure Reading,1,DVD-ROM,FALSE
+Leisure Reading,29,Issue,FALSE
+Nonprint Media,1,Book,FALSE
+Nonprint Media,2,DVD,FALSE
+Nonprint Media,2,Video cassette,FALSE
+Oversized items - 2nd Floor,45,Book,FALSE
+Oversized items - 2nd Floor,1,Video cassette,FALSE
+Ready Reference - Tulsa,23,Book,FALSE
+Reference - Tulsa,3,Book,FALSE
+Reference - Tulsa,1,Map,FALSE
+Reserves - Tulsa,2,Book,FALSE
+Reserves - Tulsa,1,Compact Disc,FALSE
+Reserves - Tulsa,3,Realia,FALSE
+Rotation Reserves 4 week checkout - Tulsa (Location),28,Book,FALSE
+Rotation Reserves 6 week checkout - Tulsa (Location),96,Book,FALSE
+Rotation Reserves 8 week checkout - Tulsa (Location),105,Book,TRUE
+Special Collections - Tulsa,1,Art Original,FALSE
+Special Collections - Tulsa,391,Book,TRUE
+Special Collections - Tulsa,3,Bound Issue,FALSE
+Special Collections - Tulsa,27,Issue,FALSE
+Special Collections - Tulsa,119,Manuscript,TRUE
+Special Collections - Tulsa,54,Master Thesis,FALSE
+Special Collections - Tulsa,19,PhD Thesis,FALSE
+Special Collections - Tulsa,2,Thesis,FALSE
+Staff Offices - See Circulation Desk,2,Book,FALSE
+Staff Offices - See Circulation Desk,1,Unknown,FALSE
+Technology - Tulsa,107,Equipment,TRUE
+Technology - Tulsa,13,Game,FALSE
+,"79,428",,
